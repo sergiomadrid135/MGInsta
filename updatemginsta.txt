@@ -3,7 +3,9 @@
 
 
 <li>Traducido al español completamente</li>
+<li>Modificado MG Ajustes</li>
 
 
 ","url":"www.megadarkmods.blogspot.com"
 }
+
