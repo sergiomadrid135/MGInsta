@@ -1,0 +1,10 @@
+{"version_code":113249569,"content":"
+<p>1.50</p>
+
+
+<li>Traducido al español completamente</li>
+<li>Modificado MG Ajustes</li>
+
+
+","url":"www.mbmods.ga"
+}
